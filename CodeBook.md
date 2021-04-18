@@ -35,3 +35,24 @@ With the gsub() function the patterns were replaced obtaing more understandable 
 
 The final tidy dataset took the resulted datased in the previous step to calculated the mean for each variable according to subject and activity name. With the group_by() fuction, the data set was groupped according to subject and activity name. To calculate the mean in each variable we used the summarize_all() function. 
 
+# Variables
+The following list depicts the variables included in the tidy dataset
+
+* timeBodyAccelerometer-mean()-X
+* timeBodyAccelerometer-mean()-Y
+* timeBodyAccelerometer-mean()-Z
+* timeBodyAccelerometer-std()-X
+* timeBodyAccelerometer-std()-Y
+* timeBodyAccelerometer-std()-Z
+* timeGravityAccelerometer-mean()-X
+* timeGravityAccelerometer-mean()-Y
+* timeGravityAccelerometer-mean()-Z
+* timeGravityAccelerometer-std()-X
+* timeGravityAccelerometer-std()-Y
+* timeGravityAccelerometer-std()-Z
+* timeBodyGyroscope-mean()-X
+* timeBodyGyroscope-mean()-Y
+* timeBodyGyroscope-mean()-Z
+* timeBodyGyroscope-std()-X
+...
+The complete list can be reviewed in the tidy dataset

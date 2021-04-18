@@ -54,5 +54,8 @@ The following list depicts the variables included in the tidy dataset
 * timeBodyGyroscope-mean()-Y
 * timeBodyGyroscope-mean()-Z
 * timeBodyGyroscope-std()-X
+* 
+
 ...
+
 The complete list can be reviewed in the tidy dataset
